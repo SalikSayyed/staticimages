@@ -1,0 +1,2 @@
+# staticimages
+justforpractice
